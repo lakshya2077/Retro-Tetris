@@ -1,0 +1,3 @@
+F:\Programs\Projects\Tetris\x64\Debug\Tetris.vcxproj.CopyComplete
+F:\Programs\Projects\Tetris\x64\Debug\Tetris.exe
+F:\Programs\Projects\Tetris\x64\Debug\raylib.dll

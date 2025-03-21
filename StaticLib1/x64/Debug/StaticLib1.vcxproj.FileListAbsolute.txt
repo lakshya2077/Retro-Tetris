@@ -1,0 +1,1 @@
+F:\Programs\Projects\Snake Game\Random Number Generator\StaticLib1\x64\Debug\StaticLib1.lib

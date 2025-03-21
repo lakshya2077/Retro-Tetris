@@ -1,0 +1,7 @@
+﻿  game.cpp
+F:\Programs\Projects\Tetris\game.cpp(37,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+F:\Programs\Projects\Tetris\main.cpp(44,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Programs\Projects\Tetris\main.cpp(52,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Tetris.vcxproj -> F:\Programs\Projects\Tetris\x64\Debug\Tetris.exe
